@@ -1,0 +1,9 @@
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\bin\Debug\ChineseChess.exe
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\bin\Debug\ChineseChess.pdb
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.Properties.Resources.resources
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csproj.GenerateResource.Cache
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.exe
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.View.resources
+C:\Users\Meteor\Documents\Visual Studio 2005\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.Main.resources

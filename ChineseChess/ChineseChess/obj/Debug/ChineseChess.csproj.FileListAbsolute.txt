@@ -1,0 +1,16 @@
+C:\Users\Meteor\Documents\Visual Studio 2008\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.exe
+C:\Users\Meteor\Documents\Visual Studio 2008\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
+C:\Users\Meteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.exe
+C:\Users\Meteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.exe
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\bin\Debug\ChineseChess.exe
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\bin\Debug\ChineseChess.pdb
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.Properties.Resources.resources
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.View.resources
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csproj.GenerateResource.Cache
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\obj\Debug\ChineseChess.csprojResolveAssemblyReference.cache
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\gkmeteor\Documents\Visual Studio 2010\Projects\ChineseChess\ChineseChess\bin\Debug\Interop.UPNPLib.dll
+E:\github-repo\ChineseChess\ChineseChess\obj\Debug\ChineseChess.exe
+E:\github-repo\ChineseChess\ChineseChess\obj\Debug\ChineseChess.pdb
